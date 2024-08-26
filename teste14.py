@@ -10,3 +10,7 @@ soma = sum(numeros)
 media = soma / len(numeros) 
 print("soma", soma) 
 print("media", media)
+
+#'1 a 5' o código recebe os elementos
+#'6 a 7' o código imprime um mensagem de erro caso não houver um número inserido
+#'10 a 15' imprime na tela os resultados para o usuário
